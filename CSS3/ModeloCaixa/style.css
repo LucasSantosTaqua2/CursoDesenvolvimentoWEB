@@ -2,9 +2,32 @@
 Modelo de caixa
 */
 
-.conteudo{
+/*.conteudo{
     border: 1px solid red;
     padding-top: 20px;
     padding-right: 20px;
     width: 150px;
+}*/
+
+
+/*
+Elementos Flutuantes
+*/
+
+.conteudo{
+    background: blue;
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    float: right;
+    text-align: center;
+    margin: 10px;
 }
+
+/*.conteudo1{
+    background: red;
+    border: 1px solid gray;
+    width: 150px;
+    height: 150px;
+    float: right;
+}*/
